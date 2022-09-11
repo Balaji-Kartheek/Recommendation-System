@@ -2,8 +2,11 @@ A content based Amazon Products recommender system using cosine similarity based
 
 A snippet of the recommender website
 
+first snippet:
+
 ![image](https://user-images.githubusercontent.com/77656115/189540146-9eac1b06-bc2c-47f9-8ff9-1c7f4c70bfcc.png)
 
+second snippet: 
 ![image](https://user-images.githubusercontent.com/77656115/189540160-13144fac-eeb2-4833-a65e-43b806188e69.png)
 
 
