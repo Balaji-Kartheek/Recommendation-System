@@ -31,7 +31,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ![image](https://user-images.githubusercontent.com/77656115/206839091-da313c5a-5c40-4716-b55a-94a9c656b44a.png)
 
 ### Workflow Steps:
-1. Data Pre=processing and Exploratory Data Analysis
+1. Data Pre-processing and Exploratory Data Analysis
 2. Building a Recommendation Function based on User-Similarity.
 3. Importing pickle files in PyCharm making a UI using Streamlit interface.
 
