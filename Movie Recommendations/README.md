@@ -10,7 +10,7 @@ Dataset – https://grouplens.org/datasets/movielens/ (ml-latest-small suggested
 A snippet of the recommender website
 ![image](https://user-images.githubusercontent.com/77656115/189417898-a52af875-1a8e-4ee2-ae76-0123ed3c87f7.png)
 
-Item-Based Similarity:
+## Item-Based Similarity:
 Item-item collaborative filtering is a type of recommendation system that is based on the similarity between items calculated using the rating users have given to items. It helps solve issues that user-based collaborative filters suffer from such as when the system has many items with fewer items rated.
 
 ![image](https://user-images.githubusercontent.com/77656115/206840269-b9c1cc51-10c8-411e-815a-ec5dffbffb77.png)
